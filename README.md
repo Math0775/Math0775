@@ -24,5 +24,5 @@ Meu objetivo é me destacar como um programador de alto nível, contribuindo de 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-pompermayer-88a560289/)
 
 - Telefone: (27) 99728-7192
-- Email: matheusandradepompermayer@gmail.com
+- Email: matheusandradepompermayer07@gmail.com
 - Localização: Linhares, ES
