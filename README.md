@@ -17,7 +17,7 @@ Meu objetivo é me destacar como um programador de alto nível, contribuindo de 
 ## Soft Skills
 - Comunicação eficaz - Trabalho em equipe - Resolução de problemas - Aprendizado contínuo - Adaptabilidade - Pensamento crítico
 
-![Miguel Zuqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-n-zuqui&show_icons=true&theme=transparent)
+![Miguel Zuqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAndrade07&show_icons=true&theme=transparent)
 
 ## 👉  Onde me encontrar 
 
