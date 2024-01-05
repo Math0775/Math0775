@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu GitHub. 😁
+# Seja bem vindo ao meu GitHub!
 
 ## Objetivo 🚀
 Meu objetivo é me destacar como um programador de alto nível, contribuindo de forma significativa para projetos inovadores na área de tecnologia. Com uma base sólida em comunicação eficaz, trabalho em equipe e resolução de problemas, estou comprometido em cultivar minhas habilidades em pensamento crítico, aprendizado contínuo e adaptabilidade. Como alguém que valoriza a excelência técnica, estou empenhado em me manter atualizado com as mais recentes tendências e tecnologias, demonstrando minha paixão pela programação através de projetos desafiadores e soluções criativas. Estou ansioso para contribuir de forma significativa para equipes de desenvolvimento de software e alcançar padrões excepcionais de desempenho como programador de alto nível.
