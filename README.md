@@ -21,7 +21,7 @@ Meu objetivo é me destacar como um programador de alto nível, contribuindo de 
 
 ## 👉  Onde me encontrar 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-natale-zuqui-182076286/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-pompermayer-88a560289/)
 
 - Telefone: (27) 99520-3567
 - Email: miguelnatalezuqui@gmail.com
